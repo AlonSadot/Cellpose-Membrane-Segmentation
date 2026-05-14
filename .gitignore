@@ -1,0 +1,40 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.ipynb_checkpoints/
+
+# Environments
+.venv/
+venv/
+env/
+
+# Local/editor files
+.DS_Store
+.idea/
+.vscode/
+*.log
+
+# Data and generated outputs
+data/*
+!data/.gitkeep
+outputs/
+predictions/
+results/
+*.tif
+*.tiff
+*.png
+*.jpg
+*.jpeg
+*.npy
+*.npz
+*.csv
+
+# Cellpose training artifacts
+models/*_flows.tif
+models/*_seg.npy
+models/cellpose_*
+!models/final_membrane_model

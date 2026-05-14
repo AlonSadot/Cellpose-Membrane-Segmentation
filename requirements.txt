@@ -1,0 +1,9 @@
+numpy
+scipy
+matplotlib
+scikit-image
+tifffile
+opencv-python
+tqdm
+psutil
+cellpose
