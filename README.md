@@ -1,6 +1,6 @@
 # Cellpose Membrane Segmentation
 
-This repository contains a compact, recruiter-facing version of a microscopy segmentation workflow for training and applying a custom Cellpose membrane model.
+This repository contains a compact microscopy segmentation workflow for training and applying a custom Cellpose membrane model.
 
 The project focuses on two practical problems:
 
